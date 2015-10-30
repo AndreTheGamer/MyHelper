@@ -1,9 +1,7 @@
 # MyHelper
 Define your own custom /helper pages using this plugin.
 
-Developers
 
--Andre_The_Gamer
 - 
 My Server:
 - IP: play.InsanePE.net
