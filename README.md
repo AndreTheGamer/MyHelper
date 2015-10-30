@@ -1,5 +1,6 @@
-![alt tag](http://s15.postimg.org/c5xv7l3iv/7003.jpg)
 # MyHelper
+![alt tag](http://s15.postimg.org/c5xv7l3iv/7003.jpg)
+
 Define your own custom /helper pages using this plugin.
 
 
