@@ -5,4 +5,4 @@ Developers
 
 - Andre_The_Gamer
 - 
-Follow Me On Pocketmine :P : hhttps://forums.pocketmine.net/members/andre_the_gamer.22131/
+Follow Me On Pocketmine :P: https://forums.pocketmine.net/members/andre_the_gamer.22131/
