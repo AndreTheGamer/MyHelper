@@ -1,0 +1,29 @@
+############################
+#   MY HELPER              #
+############################
+# - Custom /helper command with custom message
+# Made By: Andre_The_Gamer  // Do Not Modify Without My Permission! :D
+# GITHUB: https://github.com/AndreTheGamer
+#####
+#  ENJOY
+#####
+
+### No Permission Message // When player doesn't have permission.
+no-permission: You don't have permission to use this command
+##
+##
+# Use: § For Color code:
+# EXAMPLE: §d - For Light Purple
+##
+##
+
+# ===== Messages ===== #
+line1: §l§d-=-+§f[§eHelper§f]§d+-=-
+line2: + Welcome to my server!
+line3: + EDIT THIS IN CONFIG
+line4: + EDIT THIS IN CONFIG
+line5: + EDIT THIS IN CONFIG
+line6: + EDIT THIS IN CONFIG
+line7: + EDIT THIS IN CONFIG
+line8: + EDIT THIS IN CONGIF
+line9: §l§d-=-+§e[||||||]§d+-=-
