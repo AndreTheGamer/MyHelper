@@ -1,0 +1,26 @@
+---
+name: MyHelper
+main: Andre\MyHelper
+version: 1.0.0
+api: 1.0.0
+author: Andre_The_Gamer
+descrption: Set your own custom help page
+website: https://github.com/AndreTheGamer
+
+
+commands:
+    helper:
+        description: show the help page to user
+        permission: myhelper.use
+        usage: /helper For Helper Page.
+
+permissions:
+    myhelper.use:
+        default: true
+        description: allows player to use the /helper command
+        
+ 
+ 
+---
+ 
+ 
