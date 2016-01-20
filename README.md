@@ -6,8 +6,8 @@ Define your own custom /helper pages using this plugin.
 
 - 
 My Server:
-- IP: play.InsanePE.net
-- Port 19142
+- IP: Play.RagingPE.net
+- Port 19132
 
 Follow Me On Pocketmine :P: https://forums.pocketmine.net/members/andre_the_gamer.22131/
 
